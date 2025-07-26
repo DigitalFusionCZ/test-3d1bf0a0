@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-26T20:11:54.580Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-vseprostavby.png",
+      "file_name": "logo-vseprostavby.png",
+      "description": "White logo for 'VŠE PRO STAVBY.CZ'. The dimensions (1024x609) are quite large for a logo, suggesting it might be used somewhere prominent or scaled down significantly.",
+      "suggested_usage": "Use as the primary website logo in the header and potentially in the footer. Consider optimizing its dimensions and file size for faster loading.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/gallery-tanvald-reconstruction.jpg",
+      "file_name": "gallery-tanvald-reconstruction.jpg",
+      "description": "An image depicting a building or construction project, possibly a facade or exterior detail. The filename 'TANVALD2' suggests it's from a specific project location. The 'scaled-1' in the URL indicates it's a resized version of an original image.",
+      "suggested_usage": "Use within a gallery section, a project showcase page, or as a supporting image on a 'Services' or 'References' page to visually represent completed work. Ensure it's correctly cropped and compressed.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/project-rdpo.jpg",
+      "file_name": "project-rdpo.jpg",
+      "description": "An image related to a project, likely 'RDPO'. Given the website's focus on construction, it's probably a photo of a residential house construction or renovation. The absence of dimensions suggests it might be displayed in its original uploaded size or dynamically resized by CSS.",
+      "suggested_usage": "Use on a project-specific page (e.g., 'RDPO Project') or within a 'References/Portfolio' section to highlight a completed or ongoing residential development project. Ensure file size is optimized.",
+      "size_bytes": 558411
+    }
+  ]
+}
